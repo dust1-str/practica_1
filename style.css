@@ -28,3 +28,8 @@
 #cuadro-rojo {
     background-color: red;
 }
+
+#escudo {
+    width: auto;
+    height: 300px;
+}
