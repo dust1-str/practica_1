@@ -9,3 +9,22 @@
     height: 100vh;
     display: flex;
 }
+
+#contenedor div {
+    flex: auto;
+}
+
+#cuadro-verde {
+    background-color: green;
+}
+
+#cuadro-blanco {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cuadro-rojo {
+    background-color: red;
+}
