@@ -11,7 +11,7 @@
 }
 
 #contenedor div {
-    flex: auto;
+    width: 33%;
 }
 
 #cuadro-verde {
@@ -29,7 +29,7 @@
     background-color: red;
 }
 
-#escudo {
-    width: auto;
-    height: 300px;
+#cuadro-blanco img {
+    width: 300px;
+    height: auto;
 }
